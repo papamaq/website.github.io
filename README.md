@@ -1,37 +1,33 @@
 # Papama Qina — Portfolio
 
-**UI/UX Developer · Graphic Designer · Music Composer**
+**Live Site → [papamaq.github.io/Portfolio](https://papamaq.github.io/Portfolio)**
 
-[GitHub](https://github.com/papamaq/) · [Instagram](https://www.instagram.com/papama_q) · [Behance](https://www.behance.net/papamaq1)
-
----
-
-## About
-
-This is my personal portfolio — an experimental, interactive experience built from scratch using vanilla JavaScript and GSAP. Rather than a conventional grid layout, I designed an immersive mouse-trail animation where project visuals follow the cursor across a large typographic canvas, reflecting my approach to UI: intentional, expressive, and detail-driven.
+An experimental, interactive portfolio built with vanilla JavaScript and GSAP. Project visuals trail the mouse cursor across a large typographic canvas — designed to feel as considered as the work it presents.
 
 ---
 
-## Work Showcased
+## Projects
 
-- Isometric Logo Design
-- Calendar UI
-- Shopping UI/UX
-- Payment App
-- Fingerprint Dial Interface
-- Tesla App Concept
-- Events Branding & Logo
-
----
-
-## Built With
-
-HTML · CSS · JavaScript · GSAP (TweenMax)
+| Project | Type |
+|---|---|
+| Isometric Logo | Brand Identity |
+| Calendar UI | UI Design |
+| Shopping UI/UX | UX Design |
+| Payment App | Mobile UI |
+| Fingerprint Dial | Interaction Design |
+| Tesla App Concept | Mobile UI |
+| Events Logo | Brand Identity |
 
 ---
 
-## Contact
+## Stack
 
-Open to opportunities in UI/UX, front-end development, and creative design.
+`HTML` `CSS` `JavaScript` `GSAP`
 
-[GitHub](https://github.com/papamaq/) · [Instagram](https://www.instagram.com/papama_q) · [Behance](https://www.behance.net/papamaq1)
+---
+
+## Author
+
+**Papama Qina** — UI/UX Developer · Graphic Designer · Music Composer
+
+[Behance](https://www.behance.net/papamaq1) · [Instagram](https://www.instagram.com/papama_q) · [GitHub](https://github.com/papamaq/)
