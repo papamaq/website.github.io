@@ -1,6 +1,6 @@
 # Papama Qina — Portfolio
 
-**Live Site → [papamaq.github.io/Portfolio](https://papamaq.github.io/Portfolio)**
+**Live Site → [papamaq.github.io/Portfolio]([https://papamaq.github.io/Portfolio](https://papamaq.github.io/website.github.io/))**
 
 An experimental, interactive portfolio built with vanilla JavaScript and GSAP. Project visuals trail the mouse cursor across a large typographic canvas — designed to feel as considered as the work it presents.
 
